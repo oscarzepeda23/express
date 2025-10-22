@@ -1,0 +1,18 @@
+{
+  "name": "expres",
+  "version": "1.0.0",
+  "description": "primer servidor de note",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "apy"
+  ],
+  "author": "oscar zepeda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
